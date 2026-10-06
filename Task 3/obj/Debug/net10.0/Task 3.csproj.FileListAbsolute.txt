@@ -1,0 +1,14 @@
+D:\IIC\3rd year\Software Development\Task 3\bin\Debug\net10.0\Task 3.exe
+D:\IIC\3rd year\Software Development\Task 3\bin\Debug\net10.0\Task 3.deps.json
+D:\IIC\3rd year\Software Development\Task 3\bin\Debug\net10.0\Task 3.runtimeconfig.json
+D:\IIC\3rd year\Software Development\Task 3\bin\Debug\net10.0\Task 3.dll
+D:\IIC\3rd year\Software Development\Task 3\bin\Debug\net10.0\Task 3.pdb
+D:\IIC\3rd year\Software Development\Task 3\obj\Debug\net10.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIC\3rd year\Software Development\Task 3\obj\Debug\net10.0\Task 3.AssemblyInfoInputs.cache
+D:\IIC\3rd year\Software Development\Task 3\obj\Debug\net10.0\Task 3.AssemblyInfo.cs
+D:\IIC\3rd year\Software Development\Task 3\obj\Debug\net10.0\Task 3.csproj.CoreCompileInputs.cache
+D:\IIC\3rd year\Software Development\Task 3\obj\Debug\net10.0\Task 3.dll
+D:\IIC\3rd year\Software Development\Task 3\obj\Debug\net10.0\refint\Task 3.dll
+D:\IIC\3rd year\Software Development\Task 3\obj\Debug\net10.0\Task 3.pdb
+D:\IIC\3rd year\Software Development\Task 3\obj\Debug\net10.0\Task 3.genruntimeconfig.cache
+D:\IIC\3rd year\Software Development\Task 3\obj\Debug\net10.0\ref\Task 3.dll
